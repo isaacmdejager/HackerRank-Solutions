@@ -1,6 +1,7 @@
 # HackerRank-Solutions
 
 This repository contains a collection of PDFs describing solutions to HackerRank problems. Each document was created using LaTeX and has 3 sections.
+
 Section 1: Probelm description
   This section simply describes the problem as stated on the HackerRank problem website. It often contains sample inputs/outputs to better clarify the problem.
 Section 2: Solution
